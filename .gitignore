@@ -3,3 +3,7 @@ README.md
 .idea/
 
 venv/
+
+db.sqlite3
+
+blog/migrations/
