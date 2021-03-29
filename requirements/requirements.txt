@@ -21,7 +21,7 @@ Kivy-Garden==0.1.4
 mysql-connector-python==8.0.19
 protobuf==3.6.1
 psycopg2==2.8.4
-Pygments==2.6.1
+Pygments==2.7.4
 pypiwin32==223
 pytz==2019.3
 pywin32==227
