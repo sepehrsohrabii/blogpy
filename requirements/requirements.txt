@@ -19,7 +19,7 @@ kivy-deps.gstreamer==0.2.0
 kivy-deps.sdl2==0.2.0
 Kivy-Garden==0.1.4
 mysql-connector-python==8.0.19
-protobuf==3.6.1
+protobuf==3.18.3
 psycopg2==2.8.4
 Pygments==2.6.1
 pypiwin32==223
